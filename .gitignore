@@ -31,6 +31,5 @@
 *.out
 *.app
 
-*.vsidx
-
-.vs\*
+# Visual Studio 2022 user specific files
+.vs/
